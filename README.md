@@ -1,7 +1,8 @@
 
 # TRASSE - Trajectory and Relief ASsessment in Single Engine
 
-* 2021-01-22
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martialpohin/trasse/main?labpath=notebook%2Ftrasse.ipynb)
+
 
 TRASSE is a tool build for pedagogic aspect only. It is freely inspired from [Getting to grips with Aircraft Performance][1].
 It must not be used for any other objectives than for learning objective. 
