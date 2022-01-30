@@ -7,7 +7,7 @@
 
 TRASSE is a tool build for pedagogic aspect only. It is freely inspired from ["Getting to grips with Aircraft Performance"](https://skybrary.aero/sites/default/files/bookshelf/2263.pdf).
 
-It must not be used for any other objectives than for learning objective. 
+It must not be used for any other objectives than for learning objectives. 
 
 It can be used using mybinder.org.
 
